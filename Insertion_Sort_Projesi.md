@@ -1,4 +1,4 @@
-[22,27,16,2,18,6] -> Insertion Sort
+[22,27,16,2,18,6] -> Insertion Sort (www.patika.dev)
 
 1.Yukarıda verilen dizinin sort türüne göre aşamalarını yazınız.
 
