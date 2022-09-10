@@ -1,4 +1,4 @@
-[16,21,11,8,12,22] -> Merge Sort (www.patika.dev)
+[16,21,11,8,12,22] -> Merge Sort Patika.dev profilim: https://app.patika.dev/adamblue 7(www.patika.dev)
 
 Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 
@@ -19,3 +19,5 @@ Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 Big-O gösterimini yazınız.
 
     O(nlogn)
+    
+www.patika.dev
