@@ -14,3 +14,5 @@
     1'in sağında 2, solunda 0 bulunur
     8'in sağında 9, solunda 3 bulunur
     9'un solunda 4 bulunur            
+
+Patika.dev profilim: https://app.patika.dev/adamblue
