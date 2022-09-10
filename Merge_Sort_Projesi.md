@@ -20,6 +20,6 @@ Big-O gösterimini yazınız.
 
     O(nlogn)
     
-Patika.dev profilim: https://app.patika.dev/adamblue
+[Patika.dev profilim](https://app.patika.dev/adamblue)
 
 www.patika.dev
