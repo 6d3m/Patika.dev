@@ -15,6 +15,6 @@
     8'in sağında 9, solunda 3 bulunur
     9'un solunda 4 bulunur            
 
-Patika.dev profilim: https://app.patika.dev/adamblue
+[Patika.dev profilim](https://app.patika.dev/adamblue)
 
 www.patika.dev
